@@ -1,0 +1,10 @@
+{
+  "name": "real-food-studio",
+  "title": "REAL FOOD STUDIO",
+  "version": "1.0.0",
+  "engines": [
+    "Chinese Food Engine V1"
+  ],
+  "core_method": "LOCK THE FOOD. REBUILD THE SHOOT.",
+  "default_reality": "REAL 95"
+}
